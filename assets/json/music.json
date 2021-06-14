@@ -1,0 +1,56 @@
+{
+  "Genras": [
+    {
+      "Name": "Jazz",
+      "Songs": [
+        {
+          "id": 1,
+          "band": "Billy Ocean",
+          "duration": 1046.4,
+          "title": "Baby Jazz",
+          "url": "3434dgfsfdg"
+        },
+        {
+          "id": 2,
+          "band": "Pistol Jazz",
+          "duration": 499.2,
+          "title": "God Speed",
+          "url": "sdfgdsfg"
+        },
+        {
+          "id": 3,
+          "band": "CHIC",
+          "duration": 307.2,
+          "title": "Pistol Jazz",
+          "url": "sdfgsdfgdsfg"
+        }
+      ]
+    },
+    {
+      "Name": "Rock",
+      "Songs": [
+        {
+          "id": 4,
+          "band": "Monotix",
+          "duration": 324,
+          "title": "No Metal",
+          "url": "https://firebasestorage.googleapis.com/v0/b/atravox-79ea3.appspot.com/o/blackmetalsongs%2FMysterion%20Noctum%20-%20Granit%20Potemneet.mp3?alt=media&token=ef94302c-c7f3-4d5a-ac81-d69db7b8964d"
+        },
+        {
+          "id": 5,
+          "band": "Loyalty Freak Music",
+          "duration": 560.4,
+          "title": "MAXI METAL",
+          "url": "https://firebasestorage.googleapis.com/v0/b/atravox-79ea3.appspot.com/o/blackmetalsongs%2FNoenum%20-%20Gates%20To%20Manic%20Depression%20And%20Suicide.mp3?alt=media&token=eb075c03-8319-43cd-baf6-115908f69dca"
+        },
+        {
+          "id": 6,
+          "band": "Loyalty Freak Music",
+          "duration": 555,
+          "title": "GIGA METAL",
+          "url": "https://firebasestorage.googleapis.com/v0/b/atravox-79ea3.appspot.com/o/blackmetalsongs%2FSarath%20-%20Siste%20Indre.mp3?alt=media&token=513d73be-e29b-4b99-9ae6-257b64407a58"
+        }
+      ]
+    }
+  ]
+}
